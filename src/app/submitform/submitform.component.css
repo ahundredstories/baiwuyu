@@ -1,0 +1,12 @@
+p {
+    white-space: pre-line;
+    font-size: 6mm;
+}
+
+.submitText {
+    color: grey;
+}
+
+.formText {
+    padding-top: 50px;
+}

@@ -1,0 +1,37 @@
+.pre_text {
+    margin-top: 300px;
+    margin-bottom: 70px;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    white-space: pre-line;
+    font-size: 6mm;
+}
+
+.homepage_btn {
+    margin-top: 30px;
+}
+
+.homepage_pic {
+    margin-top: 150px;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.label_list {
+    margin-top: 150px;
+}
+
+.label_item {
+    margin-top: 50px;
+}
+
+.sort {
+    margin-top: 150px;
+}
